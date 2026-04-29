@@ -5,7 +5,7 @@ def Data_processing():
     sum = 0
     len= 0
     
-    with open ('filemname') as f: ##ENTER THE CORRECT FILENAME##        for line in f:
+    with open ('filemname') as f:  for line in f: ##ENTER THE CORRECT FILENAME##  
             val = float(line.strip())
             if min is None or val < min:
                 min = val
