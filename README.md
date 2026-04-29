@@ -1,0 +1,2 @@
+# temperature_monitoring_sensor_EWANJOHNSTON
+Temperature monitoring sensor created for Coursework 1 Advanced Programming
